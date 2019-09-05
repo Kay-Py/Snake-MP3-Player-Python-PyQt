@@ -1,4 +1,4 @@
-# Snake-MP3-Player-Python-PyQt-
+# Snake-MP3-Player-Python-PyQt
 Video: https://www.youtube.com/watch?v=Vd1OPLN2QAk
 
 Exe: http://www.mediafire.com/file/o27jt6unxwwzcai/Snake_MP3_Player_Setup.exe/file
