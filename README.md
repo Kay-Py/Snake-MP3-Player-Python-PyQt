@@ -13,8 +13,8 @@ pip install PyLyrics
 
 If you'd like to have it as a normal .exe (as it was in the video) then all you need is this: 
 1. Google Chrome (https://www.google.com/chrome/)
-2. 'pywin32-221.win-amd64-py3.4.exe' from here: https://sourceforge.net/projects/pywi...
-3. 'auto-py-to-exe' from here: https://github.com/brentvollebregt/au...
+2. 'pywin32-221.win-amd64-py3.4.exe' from here: https://sourceforge.net/projects/pywin32/files/pywin32/Build%20221/
+3. 'auto-py-to-exe' from here: https://github.com/brentvollebregt/auto-py-to-exe
 4. Do 'pip install -r requirements.txt' from inside the 'py-exe Converter' folder.
 5. Do 'python run.py' from inside the 'auto-py-to-exe-master' folder.
 6. Select the options you want via the GUI window.
